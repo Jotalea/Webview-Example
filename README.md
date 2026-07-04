@@ -3,6 +3,8 @@ Webview
 
 **2023-11-13 This repository is archived.**
 
+**2026-07-04 this repository is forked.**
+
 *An embedded Kivy Android web page viewer*
 
 Provides full screen display of "https://" and "file://" urls. To close the viewer use the back gesture or the back button.
